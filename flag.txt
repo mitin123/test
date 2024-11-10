@@ -1,1 +1,2 @@
 RCTF{flag}
+password="my password"
