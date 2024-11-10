@@ -1,2 +1,5 @@
 RCTF{flag}
 password="my password"
+
+secret="123"
+SECRET="123"
